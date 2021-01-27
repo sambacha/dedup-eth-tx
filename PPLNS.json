@@ -1,0 +1,40 @@
+{
+  "block_hash": "5e32a504f3aba0921a13c29a25ef3c480c8a0f13c4cda0824353ad276795fa8e",
+  "block_height": 6819132,
+  "block_index": 6,
+  "hash": "0c447d0398c29b5b360b80050e881047aa197694d4d4d49816d44c7c015178b8",
+  "addresses": [
+    "00192fb10df37c9fb26829eb2cc623cd1bf599e8",
+    "13b4532153b4d84198ed9805d70d245aa70fbc15"
+  ],
+  "total": 53140408000000000,
+  "fees": 63000000000000,
+  "size": 111,
+  "gas_limit": 50000,
+  "gas_used": 21000,
+  "gas_price": 3000000000,
+  "confirmed": "2018-12-03T15:06:55Z",
+  "received": "2018-12-03T15:06:55Z",
+  "ver": 0,
+  "double_spend": false,
+  "vin_sz": 1,
+  "vout_sz": 1,
+  "confirmations": 4916671,
+  "confidence": 1,
+  "inputs": [
+    {
+      "sequence": 241874,
+      "addresses": [
+        "00192fb10df37c9fb26829eb2cc623cd1bf599e8"
+      ]
+    }
+  ],
+  "outputs": [
+    {
+      "value": 53140408000000000,
+      "addresses": [
+        "13b4532153b4d84198ed9805d70d245aa70fbc15"
+      ]
+    }
+  ]
+}

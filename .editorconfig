@@ -1,0 +1,29 @@
+# EditorConfig is awesome: http://EditorConfig.org
+
+# https://github.com/jokeyrhyme/standard-editorconfig
+
+# top-most EditorConfig file
+root = true
+
+# defaults
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+
+# Shell
+# https://google.github.io/styleguide/shell.xml#Indentation
+[*.{bash,sh,zsh}]
+indent_size = 2
+indent_style = space
+
+
+# JavaScript, JSON, JSX, JavaScript Modules, TypeScript
+# https://github.com/feross/standard
+# https://prettier.io
+[*.{cjs,js,json,jsx,mjs,ts,tsx}]
+indent_size = 2
+indent_style = space
+

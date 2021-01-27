@@ -1,0 +1,7 @@
+*.csv
+db.sqlite3
+.DS_Store
+node_modules
+*.zip
+*.tar.gz
+*.tgz
